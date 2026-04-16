@@ -1,0 +1,30 @@
+{
+  "name": "4i-student-api-manager",
+  "version": "1.0.0",
+  "description": "--- Este proyecto es una aplicación web didáctica que demuestra la integración de la Programación Orientada a Objetos (POO) en JavaScript para la gestión de datos escolares. El sistema implementa una arquitectura desacoplada donde el frontend (HTML/CSS) interactúa con una lógica de negocio que emula el comportamiento de una API RESTful.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhi2609/4I-Student-API-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zhi2609/4I-Student-API-Manager/issues"
+  },
+  "homepage": "https://github.com/Zhi2609/4I-Student-API-Manager#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.8"
+  }
+}
